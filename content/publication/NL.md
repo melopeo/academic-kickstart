@@ -23,7 +23,7 @@ publication = "In SIAM J. Applied Mathematics (SIAP)"
 publication_short = "In SIAM J. Applied Mathematics (SIAP)"
 
 # Abstract and optional shortened version.
-abstract = " "
+abstract = "Revealing a community structure in a network or dataset is a central problem arising in many scientific areas. The modularity function $Q$ is an established measure quantifying the quality of a community, being identified as a set of nodes having high modularity.  In our terminology, a set of nodes with positive modularity is called a *module* and a set that  maximizes $Q$ is thus called *leading module*. Finding a leading module in a network is an important task,  however the dimension of real-world problems makes the maximization of $Q$ unfeasible. This poses the need of approximation techniques which are typically based on a linear relaxation of $Q$, induced by the spectrum of the modularity matrix $M$. In this work we propose a nonlinear relaxation which is instead based on the spectrum of a nonlinear modularity operator $\\mathcal{M}$. We show that extremal eigenvalues of $\\mathcal{M}$ provide an exact relaxation of the modularity measure $Q$, in the sense that the maximum eigenvalue of $\\mathcal{M}$ is equal to the maximum value of $Q$, however at the price of being more challenging to be computed than those of $M$. Thus we extend the work made on nonlinear Laplacians, by proposing a computational scheme, named *generalized RatioDCA*, to address such extremal eigenvalues. We show monotonic ascent and convergence of the method. We finally apply  the new method to several synthetic and real-world data sets, showing both effectiveness of the model and performance of the method."
 abstract_short = " "
 
 # Featured image thumbnail (optional)
