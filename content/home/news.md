@@ -14,6 +14,7 @@ subtitle = ""
 weight = 10
 
 +++
+[04/August/18] I will be visiting the [Alan Turing Institute](https://www.turing.ac.uk/) in London for one week: Monday August 27 to Friday August 31.
 
 [13/July/18] Our paper [Community Detection in Networks Via Nonlinear Modularity Eigenvectors](#publications) got accepted at SIAM J. Applied Mathematics (SIAP).
 
