@@ -14,6 +14,11 @@ subtitle = ""
 weight = 10
 
 +++
+[22/April/19] Our paper [Spectral Clustering of Signed Graphs via Matrix Power Means](#publications) got accepted at ICML 2019.
+
+[23/January/19] Invited talk at minisymposium session __Information extraction using the graph Laplacian__ organized by Martin Stoll and Michele Benzi at [ICIAM 2019](https://iciam2019.org/). I will present our work on *Matrix Means for Signed and Multilayer Graph Clustering*.
+
+
 [04/August/18] I will be visiting the [Alan Turing Institute](https://www.turing.ac.uk/) in London for one week: Monday August 27 to Friday August 31. 
 
 [13/July/18] Our paper [Community Detection in Networks Via Nonlinear Modularity Eigenvectors](#publications) got accepted at SIAM J. Applied Mathematics (SIAP).
