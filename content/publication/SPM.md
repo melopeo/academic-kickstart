@@ -1,5 +1,5 @@
 +++
-title = "Spectral Clustering of Signed Graphs via Matrix Power Means"
+title = "Spectral Clustering of Signed Graphs via Matrix Power Means "
 
 # Date first published.
 date = "2019-04-22"
