@@ -39,8 +39,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://arxiv.org/pdf/1708.05569"
+url_pdf = "https://epubs.siam.org/doi/abs/10.1137/17M1144143"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -52,7 +52,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = ".bib", url = "https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1708-05569"}]
+url_custom = [{name = ".bib", url = "https://epubs.siam.org/doi/abs/10.1137/17M1144143"}]
 
 # Does the content use math formatting?
 math = true
