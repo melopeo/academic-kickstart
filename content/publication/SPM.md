@@ -39,8 +39,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://arxiv.org/pdf/1905.06230.pdf"
+url_pdf = "http://proceedings.mlr.press/v97/mercado19a/mercado19a.pdf"
+url_preprint = ""
 url_code = "https://github.com/melopeo/SPM"
 url_dataset = ""
 url_project = ""
@@ -52,7 +52,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = ".bib", url = "https://github.com/melopeo/SPM"},{name = "PDF (Supplement with proofs)", url = "https://arxiv.org/pdf/1905.06230.pdf"}]
+url_custom = [{name = ".bib", url = "http://proceedings.mlr.press/v97/mercado19a.html"},{name = "PDF (Supplement with proofs)", url = "http://proceedings.mlr.press/v97/mercado19a/mercado19a-supp.pdf"}]
 
 # Does the content use math formatting?
 math = true
