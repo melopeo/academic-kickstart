@@ -14,7 +14,7 @@ subtitle = ""
 weight = 10
 
 +++
-[08/June/19] Our paper _Node Classification for Signed Social Networks Using Diffuse Interface Methods_ together with Jessica Bosch and Martin Stoll has been accepted at ECML PKDD 2019.
+[08/June/19] Our paper [Node Classification for Signed Social Networks Using Diffuse Interface Methods](#publications) together with Jessica Bosch and Martin Stoll has been accepted at ECML PKDD 2019.
 
 [22/April/19] Our paper [Spectral Clustering of Signed Graphs via Matrix Power Means](#publications) got accepted at ICML 2019.
 
