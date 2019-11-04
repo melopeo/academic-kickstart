@@ -6,7 +6,7 @@ time_start = 2019-11-12
 time_end = 2019-11-12
 abstract = ""
 abstract_short = ""
-event = "Artificial Intelligence Research Group Talks (Computer Laboratory), University of Cambridge"
+event = "Artificial Intelligence Research Group Talks (Computer Laboratory), University of Cambridge "
 event_url = "https://www.cst.cam.ac.uk/seminars/list/133837"
 location = "Cambridge"
 
